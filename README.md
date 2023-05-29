@@ -1,7 +1,5 @@
 # Automated Content Management System of Employee Turnover Dataset Using SQL & Python
 
-# Project's goal:
-
 By analyzing the whole situation of employees' work, obtaining the turnover rate and stability of employees can improve the company's ability to optimize the management of employees and prevent the loss of talent.
 
 # Data Source: 
