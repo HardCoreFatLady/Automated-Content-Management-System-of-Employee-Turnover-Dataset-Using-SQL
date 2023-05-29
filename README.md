@@ -1,4 +1,4 @@
-# Automated-Content-Management-System-of-Employee-Turnover-Dataset-Using-SQL
+# Automated Content Management System of Employee Turnover Dataset Using SQL & Tableau
 
 # Project's goal:
 
