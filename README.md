@@ -1,4 +1,4 @@
-# Automated Content Management System of Employee Turnover Dataset Using SQL & Tableau
+# Automated Content Management System of Employee Turnover Dataset Using SQL & Python
 
 # Project's goal:
 
